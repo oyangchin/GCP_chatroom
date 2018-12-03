@@ -13,11 +13,11 @@
 
 'use strict';
 
-const express = require('express');
+const app = require('express')();
 
-const http = require('http').Server(express);
+const http = require('http').Server(app);
 const io = require('socket.io')(http);
-const app = express();
+// const app = express();
 
 // [START hello_world]
 // Say hello!
