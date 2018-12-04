@@ -8,7 +8,7 @@
     "node": ">=8"
   },
   "repository": "https://github.com/GoogleCloudPlatform/nodejs-getting-started",
-  "main": "app.js",
+  "main": "app2.js",
   "private": true,
   "cloud-repo-tools": {
     "requiresKeyFile": true,
