@@ -16,7 +16,7 @@
     "test": {
       "app": {
         "args": [
-          "app.js"
+          "app2.js"
         ],
         "msg": "Hello, world!"
       }
